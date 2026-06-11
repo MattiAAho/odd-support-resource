@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Odd-Support Resource: Tournament Parity under Incomplete Competition"
+abstract: >-
+  Tournament-generation engine and analysis code for the paper "Reproducing the
+  Odd-Support Invariant and its Incompleteness Limit: A Bridge from Tournament
+  Parity Theory to the Allesina-Levine Ecological Model." Measures how structural
+  sparsity, competitive neutrality, complementarity breaking, and the number of
+  limiting factors perturb the odd-support parity of zero-sum tournaments in the
+  Allesina-Levine factor-rank model, and ties the resulting U-shaped
+  support-versus-connectivity curve to the Pfaffian / perfect-matching mechanism.
+type: software
+authors:
+  - family-names: "Aho"
+    given-names: "Matti"
+    affiliation: "Aalto University"
+license: GPL-3.0
+repository-code: "https://github.com/MattiAAho/odd-support-resource"
+url: "https://github.com/MattiAAho/odd-support-resource"
+keywords:
+  - "tournament parity"
+  - "odd-support invariant"
+  - "zero-sum games"
+  - "Pfaffian"
+  - "perfect matching"
+  - "species coexistence"
+  - "theoretical ecology"
